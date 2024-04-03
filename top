@@ -1,0 +1,175 @@
+<html>
+<head>
+<style>
+body {
+    text-align: center;
+    background-color: #e6e6fa;
+    color: rgb(83, 25, 25);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    margin-bottom: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
+    line-height: 30px;
+    overflow: scroll;
+}
+@media (max-width: 600px) {
+    body {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+.container{
+    border: 2px solid #6a6a6a;
+    background-color: beige;
+}
+h2{
+    text-decoration: underline
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+<body>
+    <div class="container">
+    <header>
+    <h1>Seiga's Home</h1>
+    </header>
+    <main>
+    <p>プロフィール<br>
+    滝波愛菜 Support Teamsのメンバー。<br>
+    2006年生まれ。<br>
+    滝波愛菜が一番の推し。
+    </p>
+    <details>
+    <p>
+    <summary><b>好きな音楽</b></summary>
+    ゴダイゴ<br>
+    タケカワユキヒデ<br>
+    TM NETWORK<br>
+    宇都宮隆<br>
+    小室哲哉<br>
+    木根尚登<br>
+    ビューティフルハミングバード<br>
+    w-inds.<br>
+    杉山清貴<br>
+    山根康広<br>
+    ウインズ平阪<br>
+    など<br>
+    ※敬称略
+    </p>
+    </details>
+    <details>
+    <p style="font-weight: bold;">
+    <summary><b>好きなYouTube</b></summary>
+    </p>
+    <p>
+    東海オンエア<br>
+    ララチューン<br>
+    たまゆら学園<br>
+    ニッキューナナch<br>
+    オモコロチャンネル<br>
+    ふっくらすずめクラブ<br>
+    板橋ハウス<br>
+    僕らの別荘<br>
+    バキ童チャンネル【ぐんぴぃ】<br>
+    など<br>
+    ※敬称略
+    </p>
+    </details>
+    <details>
+    <p>
+    <summary><b>好きなPodcast</b></summary>
+    ゆる言語学ラジオ<br>
+    など<br>
+    ※敬称略
+    </p>
+    </details>
+    <p>使用デバイス<br>
+    <table border="2">
+        <tr>
+          <th>デバイス</th>
+          <th>商品名</th>
+        </tr>
+        <tr>
+          <td>キーボード</td>
+          <td>Redragon K617</td>
+        </tr>
+        <tr>
+            <td>キーキャップ</td>
+            <td>XVX Jello White</td>
+        </tr>        <tr>
+            <td>マウス</td>
+            <td>Logicool M650</td>
+        </tr>
+        <tr>
+            <td>マウスパッド</td>
+            <td>ダイソー デスクマット</td>
+        </tr>
+        <tr>
+            <td>スピーカー</td>
+            <td>サンワ 400-SP067</td>
+        </tr>
+        <tr>
+            <td>イヤホン</td>
+            <td>AKG EO-IG955</td>
+        </tr>
+        <tr>
+            <td>スマホ</td>
+            <td>GALAXY A53</td>
+        </tr>
+      </table>
+    </p>
+    <p>活動<br>
+    <a href="https://sites.google.com/view/s-ta/">滝波愛菜 Support Teams</a>のメンバー。<br>
+    <a href="https://sites.google.com/view/takinami-aina">滝波愛菜ホームページ</a>運営者。<br>
+    <a href="https://sites.google.com/view/wonder-land-music/">Wonder Land Music</a>のサイトの運営者。
+    </p>
+    <p>リンク集<br>
+    <a href="https://sites.google.com/view/takinami-aina">
+        滝波愛菜ホームページ
+    </a><br>
+    <a href="https://sites.google.com/view/wonder-land-music/">
+        Wonder Land Music
+    </a><br>
+    <a href="https://sites.google.com/view/s-ta/">
+        滝波愛菜 Support Teams
+    </a><br>
+    <a href="https://youtube.com/@seiga_bhb/">
+        YouTube
+    </a><br>
+    <a href="https://seiga-bhb.blogspot.com">
+        飛んで火に入る夏の猫 - ブログ
+    </a><br>
+    <a href="https://twitter.com/seiga_bhb/">
+        X(formerly Twitter) - @Seiga_bhb
+    </a><br>
+    <a href="https://instagram.com/seiga_bhb/">
+        Instagram & Threads- @Seiga_bhb
+    </a><br>
+    <a href="https://facebook.com/s3iga/">
+        Facebook - @s3iga
+    </a><br>
+    <a href="https://bsky.app/profile/seiga.bsky.social">
+        Bluesky - @seiga.bsky.social
+    </a><br>
+    <a href=" https://tiktok.com/seiga_bhb">
+       TikTok - @Seiga_bhb
+    </a><br>
+    </p>
+    <p>
+    広告
+    <br>
+    <p>
+    <a href="https://sites.google.com/view/wonder-land-music/">Wonder Land Music</a><br>
+    まんまるんのハンドメイド
+    </p>
+    </main>
+    <header>
+        © 2023- Seiga_bhb All Rights Reserved. 
+    </header>
+    </div>
+</body>
+</html>
